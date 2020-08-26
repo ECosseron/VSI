@@ -1,2 +1,2 @@
 # VSI
- Valorisation de Son Image Professionnel
+ Valorisation de Son Image Professionnelle
